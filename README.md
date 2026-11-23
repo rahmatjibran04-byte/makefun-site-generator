@@ -1,6 +1,10 @@
 # makefun-site, faster — site-generator-speed-01
 
-A fast, dependency-free drop-in for make.fun's own `makefun-site` 1.0.0.
+[![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/rahmatjibran04-byte/makefun-site-generator/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/rahmatjibran04-byte/makefun-site-generator/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+
+A fast, dependency-free drop-in for make.fun's own `makefun-site` 1.0.0 — an entry for the [site-generator-speed-01 bounty](https://make.fun/bounty/site-generator-speed-01-run-20261122).
 `solve.js` returns, for every case input, exactly the answer makefun-site 1.0.0
 returns — the output tree of a generated static site, byte for byte — and does
 it in a fraction of the baseline's CPU time.
